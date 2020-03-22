@@ -1,7 +1,7 @@
 ---
 title: 'Fast Share, Android''s answer to Apple''s AirDrop'
 date: 2020-02-26T15:36:53.275Z
-draft: true
+draft: false
 ---
 The article deal with the possibility of sharing files between Android products easily. The article is from **phys.org** and was written by **Peter Grad**. 
 
