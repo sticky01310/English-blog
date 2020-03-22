@@ -17,4 +17,4 @@ If politicians are using AI to try to persuade us how to vote, why not flip this
 
 In our side, the voters, there are already a few tools to guide us, but nothing really advanced today
 
-<https://techxplore.com/news/2020-03-coronavirus-telcos-demand.html>
+<https://phys.org/news/2019-05-politics-artificial-intelligence-vote-election.html>
