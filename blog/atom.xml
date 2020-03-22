@@ -5,11 +5,43 @@
   <subtitle><![CDATA[Blog of abstracts of scientific articles for CPE Lyon.]]></subtitle>
   <link href="/blog/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2020-02-26T16:36:53+01:00</updated>
+  <updated>2020-03-04T17:33:40+01:00</updated>
   <author>
     <name>English Blog</name>
     <uri>/</uri>
   </author>
+  <entry xml:lang="en">
+    <id>/blog/how-to-optimize-online-learning-in-the-age-of-coronavirus/</id>
+    <title>How to optimize online learning in the age of coronavirus</title>
+    <content type="html">
+      <![CDATA[<p>The article deal with the solutions to optimize online learning with a five key. The article is from <strong>phys.org</strong> and was written by <strong>Andrew Martin</strong>.</p>
+<p>Due to the spread of the new coronavirus, online learning for school students is increasing. In order to remedy this, the educational psychologist who wrote this article, propose five key considerations for educators : Instruction, Content, Motivation, Relationships, Mental Health.</p>
+<ol>
+<li><strong>Instruction</strong></li>
+</ol>
+<p>Regarding the principles of Load Reduction Instruction, online lessons must be very clear and well-structured, delivered in little chunks. When the the students have the basics, they can then provide more independent and self-directed online learning activities.</p>
+<ol start="2">
+<li><strong>Content</strong></li>
+</ol>
+<p>Moreover, the material is very important. The teacher have to be sure to use the best material in order to provide the most comfortable lesson to the students. Also, it is important that the content is not too difficult too soon in order to not confusing the student early in the learning process.</p>
+<ol start="3">
+<li><strong>Motivation</strong></li>
+</ol>
+<p>There is one area of motivation particularly relevant to online learning: self-regulation which is represented in the Wheel by self- and task-management, planning, and persistence.</p>
+<ol start="4">
+<li><strong>Relationships</strong></li>
+</ol>
+<p>Concerning this point, in an online environment, it is recommended that teachers maintain contact with the class in different ways, for instance : via email, the school's online learning platform, video, blogs, and class chat-groups.</p>
+<ol start="5">
+<li><strong>Mental Health</strong></li>
+</ol>
+<p>If mental health hurts, learning usually suffers. As a result, it is important that all students are clearly informed of who to contact inside or outside the school if they are in difficulties.</p>
+<p><a href="https://phys.org/news/2020-03-optimize-online-age-coronavirus.html">https://phys.org/news/2020-03-optimize-online-age-coronavirus.html</a></p>]]>
+    </content>
+    <link href="/blog/how-to-optimize-online-learning-in-the-age-of-coronavirus/" rel="alternate" type="text/html" />
+    <published>2020-03-04T17:33:40+01:00</published>
+    <updated>2020-03-04T17:33:40+01:00</updated>
+  </entry>
   <entry xml:lang="en">
     <id>/blog/mathematicians-develop-new-theory-to-explain-real-world-randomness/</id>
     <title>Fast Share, Android's answer to Apple's AirDrop</title>
