@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>/</loc>
-    <lastmod>2020-03-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>/blog/test/</loc>
-    <lastmod>2020-03-20</lastmod>
+    <lastmod>2020-03-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/blog/princess-mononoke/</loc>
     <lastmod>2020-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/blog/test/</loc>
+    <lastmod>2020-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

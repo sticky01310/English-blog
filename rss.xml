@@ -3,20 +3,8 @@
   <channel>
     <title>English Blog</title>
     <description><![CDATA[Blog of abstracts of scientific articles for CPE Lyon.]]></description>
-    <lastBuildDate>2020-03-20T00:19:47+01:00</lastBuildDate>
+    <lastBuildDate>2020-03-09T01:00:00+01:00</lastBuildDate>
     <link>/</link>
-    <item>
-      <guid>/blog/test/</guid>
-      <title>Seductive details inhibit learning</title>
-      <description><![CDATA[<p>The article deal with the positive use of seductive details for learning. The article is from <strong>phys.org</strong> and was written by <strong>Sara Zaske</strong>.</p>
-<p>All goes with a funny thing such as a cat video or even background music. Indeed, it can keep students from understanding the main content.</p>
-<p>These so-called &quot;seductive details,&quot; information that is interesting but irrelevant, can be detrimental to learning by the look to a meta-analysis by Washington State University researchers published in the journal Educational Psychology Review recently.</p>
-<p>This result was obtained by cross-referencing 58 studies and is as follows: People who learned with seductive details performed lower on learning outcome measures than those who learned without them.</p>
-<p>Finally, that doesn't mean the course doesn't have to be cool, but just make a little more effort to think about how we can make the learning activity itself much more appealing and interesting, according to Sundar.,</p>
-<p><a href="https://phys.org/news/2020-03-seductive-inhibit.html">https://phys.org/news/2020-03-seductive-inhibit.html</a></p>]]></description>
-      <pubDate>2020-03-20T00:19:47+01:00</pubDate>
-      <link>/blog/test/</link>
-    </item>
     <item>
       <guid>/blog/princess-mononoke/</guid>
       <title>Princess Mononoke</title>
@@ -29,6 +17,18 @@
 </blockquote>]]></description>
       <pubDate>2020-03-09T01:00:00+01:00</pubDate>
       <link>/blog/princess-mononoke/</link>
+    </item>
+    <item>
+      <guid>/blog/test/</guid>
+      <title>Seductive details inhibit learning</title>
+      <description><![CDATA[<p>The article deal with the positive use of seductive details for learning. The article is from <strong>phys.org</strong> and was written by <strong>Sara Zaske</strong>.</p>
+<p>All goes with a funny thing such as a cat video or even background music. Indeed, it can keep students from understanding the main content.</p>
+<p>These so-called &quot;seductive details,&quot; information that is interesting but irrelevant, can be detrimental to learning by the look to a meta-analysis by Washington State University researchers published in the journal Educational Psychology Review recently.</p>
+<p>This result was obtained by cross-referencing 58 studies and is as follows: People who learned with seductive details performed lower on learning outcome measures than those who learned without them.</p>
+<p>Finally, that doesn't mean the course doesn't have to be cool, but just make a little more effort to think about how we can make the learning activity itself much more appealing and interesting, according to Sundar.,</p>
+<p><a href="https://phys.org/news/2020-03-seductive-inhibit.html">https://phys.org/news/2020-03-seductive-inhibit.html</a></p>]]></description>
+      <pubDate>2020-02-19T03:00:47+01:00</pubDate>
+      <link>/blog/test/</link>
     </item>
     <item>
       <guid>/blog/daft-punk/</guid>
