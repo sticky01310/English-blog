@@ -3,8 +3,19 @@
   <channel>
     <title>English Blog - Blog</title>
     <description><![CDATA[Blog of abstracts of scientific articles for CPE Lyon.]]></description>
-    <lastBuildDate>2020-02-19T03:00:47+01:00</lastBuildDate>
+    <lastBuildDate>2020-02-26T16:36:53+01:00</lastBuildDate>
     <link>/blog/</link>
+    <item>
+      <guid>/blog/mathematicians-develop-new-theory-to-explain-real-world-randomness/</guid>
+      <title>Fast Share, Android's answer to Apple's AirDrop</title>
+      <description><![CDATA[<p>The article deal with the possibility of sharing files between Android products easily. The article is from <strong>phys.org</strong> and was written by <strong>Peter Grad</strong>. </p>
+<p>In brief, Google is preparing to launch a brand new app for file sharing between Android products in the update Android 11.</p>
+<p>In fact, the application is not yet officially announced but some media analysts spotted a reference to a new Fast Share feature that will allow users to exchange files wirelessly if they are in close proximity. This reference was found in a bug report.</p>
+<p>Regardless of the name, the feature will be a competitor of Apple's popular AirDrop, which lets users effortlessly transfer files between iOS and MacOS devices.</p>
+<p><a href="https://techxplore.com/news/2020-03-fast-android-apple-airdrop-due.html">https://techxplore.com/news/2020-03-fast-android-apple-airdrop-due.html</a></p>]]></description>
+      <pubDate>2020-02-26T16:36:53+01:00</pubDate>
+      <link>/blog/mathematicians-develop-new-theory-to-explain-real-world-randomness/</link>
+    </item>
     <item>
       <guid>/blog/test/</guid>
       <title>Seductive details inhibit learning</title>
